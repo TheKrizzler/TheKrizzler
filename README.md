@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center"><img src="pixelcrop.gif"/></div>
+<div align="center"><h2>Hi, I'm Kriz</h2>
+<h3>I do ctfs, and thats about it</h3>
+<p>🚩 Binary exploitation and Reverse engineering</p>
+<p>📫 Reach me on discord: mannikebab</p>
+</div>
 
 <!--
 **TheKrizzler/TheKrizzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
