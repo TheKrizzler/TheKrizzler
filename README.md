@@ -1,7 +1,7 @@
 <div align="center"><img src="pixelcrop.gif"/></div>
 <div align="center"><h2>Hi, I'm Kriz</h2>
 <h3>I do ctfs, and thats about it</h3>
-<p>🚩 Binary exploitation and Reverse engineering</p>
+<p>🚩 Binary exploitation and reverse engineering</p>
 <p>📫 Reach me on discord: mannikebab</p>
 </div>
 
